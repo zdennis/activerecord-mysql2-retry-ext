@@ -1,0 +1,1 @@
+rvm 1.9.2@activerecord-mysql2-retry-ext --create
