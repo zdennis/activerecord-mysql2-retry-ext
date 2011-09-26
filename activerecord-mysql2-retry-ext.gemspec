@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = Activerecord::Mysql2::Retry::Ext::VERSION
   s.authors     = ["Zach Dennis"]
   s.email       = ["zach.dennis@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/zdennis/activerecord-mysql2-retry-ext"
   s.summary     = %q{Provides auto retrying of SQL queries for the Mysql2 adapter.}
   s.description = %q{
     Something with the combination of Rails 3.1, Mysql2 0.3.x, Capybara,
